@@ -1,6 +1,9 @@
 # github-cli
 How to use github cli 
 
+# git clone repo_link
+you can clone the repo to your computer
+
 # git add .
 this command adds a change in the working directory to the staging area
 
