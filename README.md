@@ -7,7 +7,7 @@ you can clone the repo to your computer
 ### git add .
 this command adds a change in the working directory to the staging area
 
-###git commit -m 'comment'
+### git commit -m 'comment'
 this command captures a snapshot of the project's currently staged changes. 
 
 ### git push origin branch-name
