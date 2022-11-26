@@ -16,7 +16,7 @@
 
 ### git branch <branch_name>
 
-### git branch delete <branch_name>
+### git branch --delete <branch_name>
  > To delete local branch, use this command
  
 ### git checkout <branch_name>
